@@ -1,4 +1,4 @@
-# Карта развития веб-разработчика [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%D0%9A%D0%B0%D1%80%D1%82%D0%B0+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0&url=https://github.com/zualex/devmap/&via=iamZualex&hashtags=devmap)
+# Карта развития веб-разработчика
 
 ## Содержание
 - [**Каждый уважающий себя разработчик должен знать:**](#Каждый-уважающий-себя-разработчик-должен-знать-)
@@ -48,17 +48,17 @@
 Это — книги «на все времена». Лучшие в своем роде и важные для программистов любых направлений.
 
 - [ ] Жизнь:
-    - [x] [Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)](https://www.ozon.ru/context/detail/id/4341360/)
-    - [x] [Идеальный программист. Как стать профессионалом разработки ПО (Роберт К. Мартин)](http://www.ozon.ru/context/detail/id/7360633/)
+    - [ ] [Цель. Процесс непрерывного совершенствования (Элия М. Гольдратт, Джеф Кокс)](https://www.ozon.ru/context/detail/id/4341360/)
+    - [ ] [Идеальный программист. Как стать профессионалом разработки ПО (Роберт К. Мартин)](http://www.ozon.ru/context/detail/id/7360633/)
     - [ ] [Джоэл о программировании (Джоэл Х. Спольски)](https://www.ozon.ru/context/detail/id/2820575/)
     - [ ] [Джоэл и снова о программировании (Джоэл Х. Спольски)](http://www.ozon.ru/context/detail/id/4878099/)
 
-- [x] Архитектура компьютера:
-    - [x] [Код. Тайный язык информатики (Чарльз Петцольд)](http://www.ozon.ru/context/detail/id/125884/)
+- [ ] Архитектура компьютера:
+    - [ ] [Код. Тайный язык информатики (Чарльз Петцольд)](http://www.ozon.ru/context/detail/id/125884/)
 
 - [ ] Программирование:
-    - [x] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
-    - [x] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
+    - [ ] [Структура и интерпретация компьютерных программ (Харольд Абельсон, Джеральд Джей Сассман)](http://www.ozon.ru/context/detail/id/5322055/)
+    - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
     - [ ] [Совершенный код (Стив Макконнелл)](http://www.ozon.ru/context/detail/id/5508646/)
     - [ ] [Чистый код: создание, анализ и рефакторинг (Роберт Мартин)](http://www.ozon.ru/context/detail/id/21916535/)
     - [ ] [Рефакторинг. Улучшение существующего кода (Мартин Фаулер)](http://www.ozon.ru/context/detail/id/1308678/)
@@ -418,7 +418,7 @@
     - [ ] [Проектирование баз данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
     - [ ] [Нормальная форма (wikipedia)](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D0%B0)
     - [ ] [Нормализация отношений. Шесть нормальных форм (habrahabr)](https://habrahabr.ru/post/254773/)
-    - [x] [Денормализация БД. Зачем? Когда? Как? (habrahabr)](https://habrahabr.ru/post/64524/)
+    - [ ] [Денормализация БД. Зачем? Когда? Как? (habrahabr)](https://habrahabr.ru/post/64524/)
 
 ---
 
@@ -432,7 +432,7 @@
     - [ ] [Yii](http://www.yiiframework.com/)
 
 - [ ] Python фреймворки:
-    - [x] [Django](https://www.djangoproject.com/)
+    - [ ] [Django](https://www.djangoproject.com/)
     - [ ] [Flask](http://flask.pocoo.org/)
 
 - [ ] Ruby фреймворки:
@@ -452,7 +452,7 @@
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Список пакетных менеджеров:
     - [ ] Для PHP - [composer](https://getcomposer.org/)
-    - [x] Для Python - [pip](https://pypi.python.org/pypi/pip)
+    - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
     - [ ] Для Ruby - [bundler](http://bundler.io/)
     - [ ] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
 
